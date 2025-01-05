@@ -1,15 +1,14 @@
 ﻿# Expense-Tracker-
  
-1) Project Overview:
+1) Project Overview: "A full-stack Expense Tracker application to manage income sources and monthly expenses with graphical insights."
 
-"A full-stack Expense Tracker application to manage income sources and monthly expenses with graphical insights."
 Key Features:
 
-2) Add, edit, and delete income sources and expenses.
+3) Add, edit, and delete income sources and expenses.
 Visualize income and expenses through dynamic graphs using libraries like Chart.js or D3.js.
 User-friendly and responsive design for enhanced accessibility.
 
-3) Tech Stack:
+4) Tech Stack:
 Frontend: React.js, CSS
 Backend: Node.js, Express.js
 Database: MongoDB (or any database used)
