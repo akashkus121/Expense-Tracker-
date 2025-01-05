@@ -1,3 +1,10 @@
+Expense Tracker Application
+-Developed a full-stack application using React.js and Node.js.
+-Enabled users to create and manage multiple income sources (e.g., YouTube, job).
+-Integrated a system to log and monitor monthly expenses effectively.
+-Implemented dynamic graphical visualizations to display income vs. expense trends.
+-Enhanced user experience with an intuitive and responsive UI.
+
 1) Project Overview:
 
 "A full-stack Expense Tracker application to manage income sources and monthly expenses with graphical insights."
@@ -43,4 +50,19 @@ MONGO_URI =
 
 ```
 
-gi
+##  Screenshots 
+ 
+
+![1](https://github.com/akashkus121/Expense-Tracker-/blob/main/frontend/WhatsApp%20Image%202025-01-05%20at%206.41.40%20PM.jpeg)
+---- -
+![2](https://github.com/akashkus121/Expense-Tracker-/blob/main/frontend/WhatsApp%20Image%202025-01-05%20at%206.42.01%20PM.jpeg)
+--- - 
+![3](https://github.com/akashkus121/Expense-Tracker-/blob/main/frontend/WhatsApp%20Image%202025-01-05%20at%206.42.27%20PM.jpeg)
+
+--- - 
+
+## Author
+- Portfolio: [Akash](https://gregarious-hummingbird-f1cf08.netlify.app/)
+- Github: [Akash](https://github.com/akashkus121/blog2)
+- Linkedin: [Akashkushwaha](https://www.linkedin.com/in/akash-kushwaha-35b812227/)
+- Email: [908akashkushwaha@gmail.com](mailto:908akashkushwaha@gmail.com)
