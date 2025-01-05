@@ -48,17 +48,15 @@ MONGO_URI =
  ##  Screenshots 
  
 
-![1]()
----- -
-![2](https://github.com/user-attachments/assets/7075aa1a-9959-4171-bc5b-e01a1d36e3d4)
+![1](https://github.com/akashkus121/Expense-Tracker-/blob/main/frontend/WhatsApp%20Image%202025-01-05%20at%206.41.40%20PM.jpeg)
 --- - 
-![3](https://github.com/user-attachments/assets/a729ae3b-bdb6-4f29-9e29-afaa8c02553a)
+![2](https://github.com/akashkus121/Expense-Tracker-/blob/main/frontend/WhatsApp%20Image%202025-01-05%20at%206.42.01%20PM.jpeg)
 
 --- - 
-![4](https://github.com/user-attachments/assets/0040b56b-ad77-4ff2-a7d9-d197e41bf14e)
+![3](https://github.com/akashkus121/Expense-Tracker-/blob/main/frontend/WhatsApp%20Image%202025-01-05%20at%206.42.27%20PM.jpeg)
 
 --- - 
-![5](https://github.com/user-attachments/assets/6e25d23e-7d85-4928-8205-b02a33a709e8)
+
 
 
 ## Author
