@@ -1,4 +1,4 @@
-﻿# Expense-Tracker-
+﻿# Spend Sphere
  
 1) Project Overview: "A full-stack Expense Tracker application to manage income sources and monthly expenses with graphical insights."
 
